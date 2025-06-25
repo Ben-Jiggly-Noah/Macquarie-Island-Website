@@ -1,0 +1,56 @@
+.title {
+    text-align: center;
+    color: white;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 80px;
+    transform: translate(0%, -200%);
+    font-weight: bold;
+}
+.title-image {
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+.tabA {
+    text-align: center;
+    color: white;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 50px;
+    transform: translate(-25%, -200%);
+    font-weight: bold;
+}
+.tabA-image {
+    width: 30%;
+    object-fit: cover;
+    height: 200px;
+    transform: translate(32.5%, 0%);
+    border-radius: 10%;
+}
+.tabB {
+    text-align: center;
+    color: white;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 50px;
+    transform: translate(25%, -650%);
+    font-weight: bold;
+}
+.tabB-image {
+    width: 30%;
+    object-fit: cover;
+    height: 200px;
+    transform: translate(200%, -132.5%);
+    border-radius: 10%;
+}
+h1 {
+    color: black;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 60px;
+}
+p {
+    color: rgb(56, 56, 56);
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 30px;
+    width: 60%;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}

@@ -1,0 +1,46 @@
+.title {
+    text-align: center;
+    color: white;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 80px;
+    transform: translate(0%, -200%);
+    font-weight: bold;
+}
+.title-image {
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+.tab {
+    text-align: center;
+    color: white;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 50px;
+    transform: translate(0%, -200%);
+    font-weight: bold;
+}
+.tab-image {
+    width: 30%;
+    object-fit: cover;
+    height: 200px;
+    transform: translate(117.5%, 0%);
+    border-radius: 10%;
+}
+h1 {
+    color: black;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 45px;
+}
+h2 {
+    color: black;
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 35px;
+}
+p {
+    color: rgb(56, 56, 56);
+    font-family: sans-serif, Verdana, Arial, Default;
+    font-size: 30px;
+    width: 60%;
+    letter-spacing: 0.5px;
+    word-spacing: 5px;
+}
